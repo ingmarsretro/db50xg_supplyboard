@@ -45,6 +45,9 @@ Connect speakers or audio recording devices to the RCA (Cinch) sockets to use th
 - Always check the voltages before attaching the DB50XG board to avoid damage.
 - Ensure all connections are correctly and securely made.
 
+Disclaimer
+
+This is a DIY project, and any attempt to recreate it is done entirely at one's own risk. There is no warranty or guarantee provided for correct functionality or for any damages that may result from attempting to build or use this interface board. Proceed with caution and ensure thorough understanding of all steps involved before starting.
 
 ---
 
@@ -96,4 +99,8 @@ Lautsprecher oder Audioaufnahmegeräte an die Cinch (RCA) Buchsen anschließen, 
 
 - Die Spannungen stets vor dem Aufstecken des DB50XG Boards überprüfen, um Beschädigungen zu vermeiden.
 - Darauf achten, dass alle Verbindungen korrekt und sicher hergestellt sind.
+
+Haftungsausschluss
+
+Dies ist ein Bastelprojekt, und jeder Versuch, es nachzubauen, erfolgt ausschließlich auf eigenes Risiko. Es wird keine Gewährleistung oder Garantie für die korrekte Funktion oder für Schäden, die durch den Nachbau entstehen könnten, übernommen. Bitte mit Vorsicht vorgehen und sicherstellen, dass alle Schritte gründlich verstanden werden, bevor mit dem Bau begonnen wird.  
 
