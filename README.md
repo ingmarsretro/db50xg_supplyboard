@@ -2,6 +2,58 @@
 
 ![Yamaha DB50XG Interface Board](https://github.com/ingmarsretro/db50xg_supplyboard/blob/main/DB50XG_standalone.jpg)
 
+## Overview
+
+The MIDI Wavetable Board Yamaha DB50XG was originally designed as a piggyback board for PC sound cards. To enable standalone operation, the "interface board" was developed. This custom-built board allows the DB50XG to operate independently of a sound card and provides the necessary voltages and connections.
+
+## Features
+
+- **Power Supply**: Generates the required voltages for the DB50XG board from a USB 5V power source or an external power supply.
+- **MIDI Connection**: Equipped with a DIN MIDI IN socket for MIDI input.
+- **Audio Output**: Features two RCA (Cinch) sockets for the audio line output.
+
+## Components
+
+- **Stepdown Converter**: Converts 5V from an external DC power source to the required voltage.
+- **DC/DC Converter Module**: Generates symmetrical 12V power supply.
+
+## Installation and Commissioning
+
+1. **Board Assembly**: Ensure all components are correctly mounted on the board.
+2. **Voltage Adjustment**:
+   - Check the generated voltages before attaching the DB50XG board.
+   - Ensure that the 5V is correctly adjusted (Stepdown Converter).
+3. **Attaching the DB50XG Board**:
+   - Only after successful verification and adjustment of the voltages can the Yamaha DB50XG board be attached.
+
+## Usage
+
+### Power Supply
+
+Connect either a USB 5V power source or an external power supply to generate the necessary voltages. The Stepdown Converter and DC/DC Converter Module ensure proper voltage generation.
+
+### MIDI Input
+
+Connect a MIDI device to the DIN MIDI IN socket on the interface board to receive MIDI signals.
+
+### Audio Output
+
+Connect speakers or audio recording devices to the RCA (Cinch) sockets to use the audio line output.
+
+## Safety Instructions
+
+- Always check the voltages before attaching the DB50XG board to avoid damage.
+- Ensure all connections are correctly and securely made.
+
+
+---
+
+
+
+# Yamaha DB50XG Interface Board
+
+![Yamaha DB50XG Interface Board](https://github.com/ingmarsretro/db50xg_supplyboard/blob/main/DB50XG_standalone.jpg)
+
 ## Übersicht
 
 Das MIDI Wavetable Board Yamaha DB50XG wurde ursprünglich als Huckepack-Platine für PC-Soundkarten konzipiert. Um es auch stand-alone betreiben zu können, wurde das "Interfaceboard" entwickelt. Diese Eigenbauplatine ermöglicht den Betrieb des DB50XG Boards unabhängig von einer Soundkarte und bietet die notwendigen Spannungen und Anschlüsse.
@@ -45,10 +97,3 @@ Lautsprecher oder Audioaufnahmegeräte an die Cinch (RCA) Buchsen anschließen, 
 - Die Spannungen stets vor dem Aufstecken des DB50XG Boards überprüfen, um Beschädigungen zu vermeiden.
 - Darauf achten, dass alle Verbindungen korrekt und sicher hergestellt sind.
 
-## Kontakt und Support
-
-Bei Fragen oder Problemen bitte an [Kontaktinformationen] wenden. Weitere Informationen und Updates sind auf der GitHub-Seite zu finden.
-
----
-
-Vielen Dank für das Interesse am Yamaha DB50XG Interface Board! Dieses Projekt soll helfen, das volle Potenzial des MIDI Wavetable Boards auszuschöpfen.
